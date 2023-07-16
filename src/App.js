@@ -47,7 +47,7 @@ const App = () => {
                       Home
                     </Link>
                   </li>
-                  <li sclassName="nav-item ">
+                  <li className="nav-item ">
                     <Link style={{color:`${Bg==='light' ? 'black' : 'white'}` ,fontSize:"20px",margin:"5px" }} className="nav-link" to="/business">
                       Business
                     </Link>
